@@ -10,10 +10,10 @@ This repository is my **personal learning ground** for exploring and integrating
 
 Technologies & Services I'm exploring:
 
-* ** HTML, CSS/SCSS
-* ** Bootstrap framework
-* ** Angular
-* ** Typescript
+* **HTML, CSS/SCSS**
+* **Bootstrap framework**
+* **Angular**
+* **Typescript**
 
 Focus areas:
 
@@ -32,11 +32,11 @@ Focus areas:
 
 ## 📍 Steps
 
-* ** Set Up Angular Workspace & Codebase Structure
-* ** Design and Implement Core Components
-* ** Integrate State Management (NgRx or Signals)
-* ** Develop the Browser Extension UI
-* ** Connect with Backend APIs and Authentication
+* **Set Up Angular Workspace & Codebase Structure**
+* **Design and Implement Core Components**
+* **Integrate State Management (NgRx or Signals)**
+* **Develop the Browser Extension UI**
+* **Connect with Backend APIs and Authentication**
 
 ## 👥 Internship Team
 
