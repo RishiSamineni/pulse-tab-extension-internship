@@ -2,18 +2,15 @@
 
 Welcome to the **pulsetab-extension-internship** repository! This project is part of my internship journey, focused on developing a browser extension. It serves as a dedicated space for learning and experimenting with frond-end technologies like Angular, Bootstrap etc. that will be integral to the main project.
 
-## 🚀 Purpose
-
-This repository is my **personal learning ground** for exploring and integrating Firebase technologies needed for the development of a fully functional browser extension.
-
 ## 🧠 Learning Objectives
 
-### Front End Technologies
+### Front End Technologies / TechStack
 
 * **HTML, CSS/SCSS**
 * **Bootstrap framework**
 * **Angular**
 * **Typescript**
+* **Firebase SDK** (for frontend integration)
 
 ### Important Aspects:
 
